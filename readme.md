@@ -69,3 +69,15 @@ Acknowledgement
 
 The CodeIgniter team would like to thank EllisLab, all the
 contributors to the CodeIgniter project and you, the CodeIgniter user.
+
+# 📸 Foto
+![image](https://github.com/user-attachments/assets/3ed87a87-dafb-4c7f-96b5-0cdfa9b04023)
+
+![image](https://github.com/user-attachments/assets/e01e6140-8eae-4f8a-97f3-c40d026aa068)
+
+![image](https://github.com/user-attachments/assets/20c0fb07-2587-4211-884a-0da6019896c9)
+
+![image](https://github.com/user-attachments/assets/5fc5d48d-f738-4848-849a-f64bbed71d69)
+
+![image](https://github.com/user-attachments/assets/8af99001-41d0-40c4-85e8-36538a103b62)
+
